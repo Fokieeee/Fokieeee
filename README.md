@@ -19,14 +19,17 @@
 
 #### **My Projects**
 
-* [Quiz Game on | React](https://github.com/Fokieeee/quizz-game-react) 
-  `Fetching and decoding API. All questions are in one page. You can switch answer, and check the correct answer after checking results`
+- [Quiz Game on | React](https://github.com/Fokieeee/quizz-game-react) 
 
-* [Tenzies Game | React](https://github.com/Fokieeee/tenzies-react) 
-  `Roll the dices and get same number at each one`
+  Fetching and decoding API. All questions are in one page. You can switch answer, and check the correct answer after checking results
 
-* [ Portfolio Website](https://github.com/Fokieeee/portfolio-website) 
-  `This is my Portfolio site with responsive design and BEM metodology`
+- [Tenzies Game | React](https://github.com/Fokieeee/tenzies-react) 
+
+  Roll the dices and get same number at each one
+
+- [Portfolio Website](https://github.com/Fokieeee/portfolio-website) 
+
+  This is my Portfolio site with responsive design and BEM metodology
 
 ---
 
