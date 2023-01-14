@@ -2,8 +2,7 @@
 
 - I'm Frontend developer.
 - I work with React | TypeScript.
-
-_`Currently I'm looking for a job.`_
+- Currently I'm looking for a job.
 
 ---
 
@@ -20,14 +19,13 @@ _`Currently I'm looking for a job.`_
 
 #### **My Projects**
 
-- [Quiz Game on | React](https://github.com/Fokieeee/quizz-game-react) 
- **
+* [Quiz Game on | React](https://github.com/Fokieeee/quizz-game-react) 
   `Fetching and decoding API. All questions are in one page. You can switch answer, and check the correct answer after checking results`
 
-- [Tenzies Game | React](https://github.com/Fokieeee/tenzies-react) 
+* [Tenzies Game | React](https://github.com/Fokieeee/tenzies-react) 
   `Roll the dices and get same number at each one`
 
-- [ Portfolio Website](https://github.com/Fokieeee/portfolio-website) 
+* [ Portfolio Website](https://github.com/Fokieeee/portfolio-website) 
   `This is my Portfolio site with responsive design and BEM metodology`
 
 ---
