@@ -51,3 +51,16 @@ _Currently I'm looking for a job._
 - GitHub: [@Fokieeee](https://github.com/Fokieeee)
 - Telegram: [@fokie](https://t.me/fokie)
 - Email: [f0kul9nder@gmail.com](mailto:f0kul9nder@gmail.com)
+
+        <a
+          href="https://www.w3schools.com/css/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="40"
+            height="40"
+          />
+        </a>
