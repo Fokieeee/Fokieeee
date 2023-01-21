@@ -12,9 +12,9 @@ _Currently I'm looking for a job._
 ---
 
 - `React | TypeScript | Redux `
-- JS | HTML | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" >
+- `JS | HTML | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a> | Sass 
+  </a> | Sass` 
 - `Responsive Design | BEM`
 - `Git | Figma | Vite`
 
