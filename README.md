@@ -9,8 +9,6 @@ _Currently I'm looking for a job._
 
 ### **Skills**
 
----
-
 - `React | TypeScript | Redux `
 - `JS | HTML | CSS | Sass `
 - `Responsive Design | BEM`
@@ -18,7 +16,7 @@ _Currently I'm looking for a job._
 
 ---
 
-#### **My Projects**
+#### **Best Projects**
 
 * **[Pictures Store | React and TypeScript](https://github.com/Fokieeee/pictures-store-react-ts)**  
   Choose favorite picture and place the order. Fetching pictures API. Using UseReducer for cart Component. Adaptive Design. 
@@ -45,10 +43,9 @@ _Currently I'm looking for a job._
 - English: С1
 
 --- -->
+---
 
 ### **Contacts**
-
----
 
 - GitHub: [@Fokieeee](https://github.com/Fokieeee)
 - Telegram: [@fokie](https://t.me/fokie)
