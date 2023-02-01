@@ -31,8 +31,7 @@ _Currently I'm looking for a job._
 
 * **[Portfolio Website](https://github.com/Fokieeee/portfolio-website)**  
   This is my Portfolio site with responsive design and BEM metodology
-
----
+<!-- ---
 
 ### **Additional Info**
 
@@ -45,7 +44,7 @@ _Currently I'm looking for a job._
 - Russian: Native
 - English: С1
 
----
+--- -->
 
 ### **Contacts**
 
