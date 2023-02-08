@@ -46,6 +46,6 @@ _Currently I'm looking for a job._
 
 - GitHub: [@Fokieeee](https://github.com/Fokieeee)
 - Telegram: [@fokie](https://t.me/fokie)
-- Email: [f0kul9nder@gmail.com](mailto:f0kul9nder@gmail.com)
+- Email: [ilnarfokie@gmail.com](mailto:ilnarfokie@gmail.com)
 
 
