@@ -1,7 +1,7 @@
 # **Hello and Welcome 👋, I'm Ilnar Akhmetshin**
 
 - I'm Frontend developer.
-- I work with React | TypeScript
+- I work with Vue | Nuxt
 
 _Currently I'm looking for a job._
 
@@ -9,10 +9,10 @@ _Currently I'm looking for a job._
 
 ### **Skills**
 
-- `React | TypeScript | Redux `
-- `JS | HTML | CSS | Sass `
+- `Vue | Nuxt `
+- `JS | HTML | CSS | Sass | Bulma | Buefy `
 - `Responsive Design | BEM`
-- `Git | Figma | Vite`
+- `Git | Figma `
 
 ---
 
@@ -32,12 +32,12 @@ _Currently I'm looking for a job._
 
 - Birth date: April 04, 2001
 - Citizenship: Russian Federation
-- Current Location: Tashkent, Uzbekistan(Ready to relocate)
+- Current Location: Kazan, Russia (Ready to relocate)
 
 #### **Languages**
 
 - Russian: Native
-- English: С1
+- English: B2
 
 --- -->
 ---
