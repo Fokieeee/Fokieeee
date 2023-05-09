@@ -39,7 +39,6 @@ _Currently I'm looking for a job._
 - Russian: Native
 - English: B2
 
---- -->
 ---
 
 ### **Contacts**
