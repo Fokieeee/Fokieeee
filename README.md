@@ -11,8 +11,8 @@ _Currently I'm looking for a job._
 
 - `Vue | Vuex | Nuxt `
 - `JS | HTML | CSS | Sass | Bulma | Buefy `
-- `Responsive Design | BEM`
-- `Git | Figma | React/Redux | TypeScript `
+- `Responsive Design | Git | Figma`
+- `React/Redux | TypeScript `
 
 ---
 
