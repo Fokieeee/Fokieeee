@@ -16,16 +16,16 @@ _Currently I'm looking for a job._
 
 ---
 
-<!--#### **Best Projects**
+#### **Project**
 
 * **[Pictures Store | React and TypeScript](https://github.com/Fokieeee/pictures-store-react-ts)**  
   Choose favorite picture and place the order. Fetching pictures API. Using UseReducer for cart Component. Adaptive Design. 
 
-* **[Quiz Game | React](https://github.com/Fokieeee/quizz-game-react)**  
+<!--* **[Quiz Game | React](https://github.com/Fokieeee/quizz-game-react)**  
   Fetching and decoding API. All questions are in one page. You can switch answer, and check the correct answer after checking results  
 
 * **[Portfolio Website](https://github.com/Fokieeee/portfolio-website)**  
-  This is my Portfolio site with responsive design and BEM metodology --->
+  This is my Portfolio site with responsive design and BEM metodology -->
 
 
 ### **Additional Info**
