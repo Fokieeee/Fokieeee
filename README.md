@@ -16,7 +16,7 @@ _Currently I'm looking for a job._
 
 ---
 
-#### **Pet-project**
+<!--#### **Pet-project**
 
 <!--* **[Pictures Store | React and TypeScript](https://github.com/Fokieeee/pictures-store-react-ts)**  
   Choose favorite picture and place the order. Fetching pictures API. Using UseReducer for cart Component. Adaptive Design. -->
