@@ -1,7 +1,7 @@
 # **Hello and Welcome 👋, I'm Ilnar Akhmetshin**
 
 - I'm Frontend developer.
-- I work with Vue | Nuxt
+- I work with Vue | Nuxt | TS
 
 _Currently I'm looking for a job._
 
@@ -32,7 +32,7 @@ _Currently I'm looking for a job._
 
 - Birth date: April 04, 2001
 - Citizenship: Russian Federation
-- Current Location: Kazan, Russia (Ready to relocate)
+- Current Location: Kazan, Russia
 
 #### **Languages**
 
