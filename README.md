@@ -1,9 +1,7 @@
 # **Hello and Welcome 👋, I'm Ilnar Akhmetshin**
 
 - I'm Frontend developer.
-- I work with Vue | Nuxt | TS
-
-_Currently I'm looking for a job._
+- I like Vue | Nuxt | TS
 
 ---
 
@@ -27,23 +25,8 @@ _Currently I'm looking for a job._
 * **[Portfolio Website](https://github.com/Fokieeee/portfolio-website)**  
   This is my Portfolio site with responsive design and BEM metodology -->
 
-
-### **Additional Info**
-
-- Birth date: April 04, 2001
-- Citizenship: Russian Federation
-- Current Location: Kazan, Russia
-
-#### **Languages**
-
-- Russian: Native
-- English: B2
-
----
-
 ### **Contacts**
 
-- GitHub: [@Fokieeee](https://github.com/Fokieeee)
 - Telegram: [@fokie](https://t.me/fokie)
 - Email: [ilnarfokie@gmail.com](mailto:ilnarfokie@gmail.com)
 
