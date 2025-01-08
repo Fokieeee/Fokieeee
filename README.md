@@ -30,4 +30,10 @@
 - Telegram: [@fokie](https://t.me/fokie)
 - Email: [ilnarfokie@gmail.com](mailto:ilnarfokie@gmail.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrey-kudinov/andrey-kudinov/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrey-kudinov/andrey-kudinov/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrey-kudinov/andrey-kudinov/output/github-contribution-grid-snake.svg">
+</picture>
+
 
